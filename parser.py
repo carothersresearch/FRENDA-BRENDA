@@ -112,7 +112,36 @@ def get_metals(reaction, species):
 
     return LoM
 
-def parser(rxn, species):
+def average_duplicates(filtered_parameters):
+    # Create a dictionary to store cumulative values for each unique element
+    cumulative_values = {}
+
+    # Iterate through the list and calculate the cumulative sum and count for each element
+    for element, val1, val2 in filtered_parameters:
+        if element not in cumulative_values:
+            cumulative_values[element] = [0, 0, 0]  # [sum of val1, sum of val2, count of occurrences]
+
+        # Check if the value is non-zero before adding to the cumulative sum and count
+        if val1 != 0:
+            cumulative_values[element][0] += val1
+            cumulative_values[element][2] += 1
+        if val2 != 0:
+            cumulative_values[element][1] += val2
+
+    # Calculate the averages for each element and update the list
+    for element in cumulative_values:
+        if cumulative_values[element][2] != 0:
+            cumulative_values[element][0] /= cumulative_values[element][2]
+        if cumulative_values[element][1] != 0:
+            cumulative_values[element][1] /= cumulative_values[element][2]
+
+    # Convert the dictionary back to a list
+    result = [[element, val1, val2] for element, (val1, val2, _) in cumulative_values.items()]
+
+    return result
+
+
+def parser_unfilt(rxn, species):
 
     name = get_enzyme_name(rxn)
 
@@ -126,12 +155,68 @@ def parser(rxn, species):
 
     return(name, substrates, products, cofactors, parameters, metals)
 
+
+def parser_filt(rxn, species):
+
+    name = get_enzyme_name(rxn)
+
+    substrates, products = get_substrates_and_products(rxn)
+
+    for i, substrate in enumerate(substrates):
+        substrate = substrate.replace(' ','')
+        substrate = substrate.replace('D-','')
+        substrate = substrate.lower()
+        substrate = substrate.replace('-','')
+        substrate = substrate.replace('alpha','')
+        substrates[i] = substrate
+
+    for i, product in enumerate(products):
+        product = product.replace(' ','')
+        product = product.replace('D-','')
+        product = product.lower()
+        product = product.replace('-','')
+        product = product.replace('alpha','')
+        products[i] = product
+
+    cofactors = get_cofactors(rxn, species)
+
+    for i, item in enumerate(cofactors):
+        item = item.replace(' ','')
+        item = item.replace('D-','')
+        item = item.lower()
+        item = item.replace('-','')
+        item = item.replace('alpha','')
+        cofactors[i] = item
+
+    parameters = get_parameters(rxn,species)
+
+    for listitem in parameters:
+        string = listitem[0]
+        string = string.replace(' ','')
+        string = string.replace('D-','')
+        string = string.lower()
+        string = string.replace('-','')
+        string = string.replace('alpha','')
+        listitem[0] = string
+
+    filtered_parameters = []
+    for p in parameters:
+        if(p[0] in substrates):
+            filtered_parameters.append(p)
+
+    av_filt_par = average_duplicates(filtered_parameters)
+
+    metals = get_metals(rxn,species)
+
+    return(name, substrates, products, cofactors, av_filt_par, metals)
+
 def isNaN(string):
     return string != string
 
 def main():
     filename = sys.argv[1]
     dataFile = sys.argv[2]
+    filtoption = sys.argv[3]
 
     print('this is running')
 
@@ -153,7 +238,11 @@ def main():
             if isNaN(species):
                 species = 'Escherichia coli'
 
-            result_df = pd.DataFrame(parser(rxn, species)).T
+            if filtoption == 'filtered':
+                result_df = pd.DataFrame(parser_filt(rxn, species)).T
+            else:
+                result_df = pd.DataFrame(parser_unfilt(rxn, species)).T
+
             values = result_df.values[0]
 
             df.iloc[index, 3] = values[0]
@@ -167,7 +256,7 @@ def main():
             cof = '; '.join(values[3])
             df.iloc[index, 6] = cof
 
-            par = '; '.join([f'{item[0]}_Km: {item[1]}; {item[0]}_Kcat: {item[2]}; f' for item in values[4]])
+            par = '; '.join([f'{item[0]}_Km: {item[1]}; {item[0]}_Kcat: {item[2]}; ' for item in values[4]])
             df.iloc[index, 7] = par
 
             met = '; '.join(values[5])
