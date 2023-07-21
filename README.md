@@ -34,10 +34,16 @@ Add your proteomics data in the same directory as the project. If it is in the f
 bash refseq2ID.sh
 ```
 
-Once the output.csv file is formatted correctly with EC numbers and appropriate headers, run the following at the command line to detail the reaction information for each enzyme:
+Once the output.csv file is formatted correctly with EC numbers and appropriate headers, run the following at the command line to detail the reaction information for each enzyme. This will result in an **unfiltered** output, with all relevant data taken directly from BRENDA and left untouched:
 
 ```sh
-bash parser.sh "brenda_download.txt"
+bash parser.sh
+```
+
+If you would prefer to have the data cleaned up, use the command below. It will average duplicate Km and Kcat values for the same substrate and remove chemical species from the parameters list if they are not found in the listed natural substrates or cofactors:
+
+```sh
+bash parser.sh filtered
 ```
 
 The `output.csv` file now contains all relevant information formatted appropriately for input for ODBM.
