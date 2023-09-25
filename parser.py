@@ -310,6 +310,7 @@ def main():
                 rxn = brenda.reactions.get_by_id(ID)
             except ValueError as error:
                 print(error)
+                continue
 
             print('now processing ', ID)
 
@@ -321,10 +322,16 @@ def main():
                     result_df = pd.DataFrame(parser_filt(rxn, species)).T
                 except Exception as error:
                     print(error)
+                    print('this threw and error and should break now')
+                    continue
             else:
                 result_df = pd.DataFrame(parser_unfilt(rxn, species)).T
 
             values = result_df.values[0]
+
+            print('the index is', index)
+            print('the ID is ', ID)
+            print('the enzyme name is ', values[0])
 
             # fourth column, adding a LABEL for now, could get rid of later if we change odbm_main ModelBuilder class
             df.iloc[index, 3] = f'R{index+1}'
