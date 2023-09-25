@@ -1,0 +1,387 @@
+Accession Number,EC,Species,Label,Enzyme,Mechanism,Substrate,Cofactor,Product,Metals,Parameters
+WP_001307570.1,4.2.1.3,,R1,Aconitate hydratase,MM,citrate,,cisaconitate; h2o,Mg2+; Iron; Fe2+; Fe,kcat:0;Km:6.08
+WP_000263098.1,2.7.7.6,,R2,Dna-directed rna polymerase,,,,diphosphate; rnan+1,Zinc; K+; Mg2+,
+WP_001181473.1,1.2.4.2,,R3,Oxoglutarate dehydrogenase ,MM,2oxoglutarate,thiaminediphosphate,dihydrolipoyllysineresiduesuccinyltransferasessuccinyldihydrolipoyllysine; co2,Mg2+,kcat:18.85;Km:332.91150000000005
+WP_000653944.1,2.7.7.6,,R4,Dna-directed rna polymerase,,,,diphosphate; rnan+1,Zinc; K+; Mg2+,
+WP_000153502.1,1.2.1.12,,R5,Glyceraldehyde-3-phosphate dehydrogenase ,,glyceraldehyde3phosphate; nad+; phosphate,nad+,3phosphoglyceroylphosphate; nadh; h+,,glyceraldehyde3phosphate_Km: 0.89; glyceraldehyde3phosphate_Kcat: 0; ; nad+_Km: 0.0475; nad+_Kcat: 0; ; phosphate_Km: 0.53; phosphate_Kcat: 0; 
+WP_000003829.1,1.2.4.1,,R6,Pyruvate dehydrogenase ,MM,pyruvate,thiaminediphosphate; nad+,dihydrolipoyllysineresidueacetyltransferasesacetyldihydrolipoyllysine; co2,Mg2+,kcat:37.9;Km:0.38795
+WP_001198386.1,5.2.1.8,,R7,,,,,,,
+WP_001126376.1,6.3.5.5,,R8,Carbamoyl-phosphate synthase ,MM,lglutamine,imp; amp; gdp; gmp; idp; atp,2adp; phosphate+lglutamate; carbamoylphosphaterelglutamine; h2o,Mn2+; NH4+; K+; Mg2+,kcat:2.13;Km:0.125
+WP_000102485.1,1.8.1.4,,R9,,,,,,,
+WP_001048602.1,6.2.1.5,,R10,Succinate-coa ligase ,SOBB,coa; succinate,atp,adp; phosphate; succinylcoa,Mg2+,kcat:35.714999999999996;Km1:4.0;Km2:0.25
+WP_000111269.1,2.7.2.3,,R11,Phosphoglycerate kinase,,,atp; adp,adp; 3phosphoglyceroylphosphate,Mg2+,
+WP_000047185.1,6.1.1.7,,R12,Alanine-trna ligase,SOBB,trnaala; lalanine,atp,amp; diphosphate; lalanyltrnaala; adp,Zinc; Zn2+; Mg2+,kcat:0.82;Km1:0.0017499999999999998;Km2:0.05
+WP_000036723.1,4.2.1.11,,R13,Phosphopyruvate hydratase,,,,phosphoenolpyruvate; h2o,Mg2+,
+WP_000098614.1,2.2.1.1,,R14,Transketolase,MM,sedoheptulose7phosphate,thiaminediphosphate,ribose5phosphate; xylulose5phosphate,Mg2+; Ca2+,kcat:0;Km:4.0
+WP_000963518.1,2.3.1.12,,R15,,,,,,,
+WP_000024939.1,1.1.1.86,,R16,Ketol-acid reductoisomerase ,MM,2acetolactate,nadph; nadp+,"2,3dihydroxy3methylbutanoate; nadp; nadp+",Mg2+; Mn2+; Co2+,kcat:1.7436666666666667;Km:0.25
+WP_000034402.1,2.5.1.47,,R17,Cysteine synthase,MM,oacetyllserine,pyridoxal5phosphate,lcysteine; acetate,Mg2+,kcat:24.0;Km:10.233333333333333
+WP_001295272.1,1.1.1.37,,R18,Malate dehydrogenase,,,nadh; nad+,h; nadh; oxaloacetate,,
+WP_001162094.1,2.7.7.6,,R19,Dna-directed rna polymerase,,,,diphosphate; rnan+1,Zinc; K+; Mg2+,
+WP_000130189.1,2.2.1.2,,R20,Transaldolase,SOBB,sedoheptulose7phosphate; glyceraldehyde3phosphate,,erythrose4phosphate; fructose6phosphate,,kcat:13.0;Km1:0.285;Km2:3300.95
+WP_001260712.1,6.1.1.15,,R21,Proline-trna ligase,SOBB,lproline; trnapro,atp,amp; diphosphate; lprolyltrnapro; adp,Mg2+,kcat:16.00283333333333;Km1:33.059666666666665;Km2:0.01414
+WP_000052796.1,1.11.1.26,,R22,Nadh-dependent peroxiredoxin,,,nadh,2h2o; nad; nad+,,
+WP_001286879.1,6.1.1.5,,R23,Isoleucine-trna ligase,SOBB,lisoleucine; trnaile,atp,amp; diphosphate; lisoleucyltrnaile; adp,Zn2+; Mg2+; Zinc; La3+; Cobalt; Ce3+; Tb3+; Gd3+; Nd3+; Sm3+; Eu3+; Yb3+; Dy3+; Pr3+,kcat:29.05;Km1:6000.0023;Km2:0.0021
+WP_000069410.1,2.7.9.2,,R24,"Pyruvate, water dikinase",MM,pyruvate,atp,amp; phosphoenolpyruvate; phosphate; adp,Mn2+; Mg2+,kcat:0;Km:0.083
+WP_000099823.1,2.3.1.61,,R25,,,,,,,
+WP_001265681.1,4.1.1.49,,R26,Phosphoenolpyruvate carboxykinase ,MM,oxaloacetate,atp,adp; phosphoenolpyruvate; co2,Mn2+; Ca2+; Mg2+,kcat:0;Km:0.67
+WP_000919159.1,2.1.2.1,,R27,Glycine hydroxymethyltransferase,,,"pyridoxal5phosphate; tetrahydrofolate; 5,10methylenetetrahydrofolate; tetrahydrofolatederivatives",tetrahydrofolate+lserine,,
+WP_000066639.1,4.2.1.2,,R28,Fumarate hydratase,MM,fumarate,,lmalate,3Fe-4S center; Iron; Fe2+,kcat:783.5666666666666;Km:0.5104
+WP_000838261.1,5.2.1.8,,R29,,,,,,,
+WP_000672380.1,6.1.1.20,,R30,Phenylalanine-trna ligase,SOBB,trnaphe; lphenylalanine,atp,amp; diphosphate+lphenylalanyltrnaphe; adp,Zn2+; Mg2+,kcat:99.723375;Km1:0.002875;Km2:0.002
+WP_000785834.1,2.3.3.16,,R31,Citrate synthase ,SOBB,acetylcoa; oxaloacetate,,citrate; coa,K+; KCl,kcat:67.08333333333333;Km1:0.417;Km2:0.014
+WP_000025458.1,6.2.1.5,,R32,Succinate-coa ligase ,SOBB,coa; succinate,atp,adp; phosphate; succinylcoa,Mg2+,kcat:35.714999999999996;Km1:4.0;Km2:0.25
+WP_000069437.1,4.3.1.1,,R33,Aspartate ammonia-lyase,MM,laspartate,,fumarate; nh3,Co2+; K+; Cd2+; Li+; Mg2+; Zn2+; Mn2+; Ca2+,kcat:169.5;Km:1.2
+WP_001295373.1,2.8.1.7,,R34,Cysteine desulfurase,MM,lcysteine,pyridoxal5phosphate,lalanine; ssulfanylacceptorrelcysteine; enzymecysteine,Iron,kcat:0.202;Km:2.025
+WP_000043460.1,1.1.1.44,,R35,Phosphogluconate dehydrogenase ,SOBB,nadp+; 6phosphogluconate,nadp+,ribulose5phosphate; co2; nadph+h+,,kcat:0;Km1:0.049;Km2:0.093
+WP_000462687.1,2.6.1.1,,R36,Aspartate transaminase,SOBB,2oxoglutarate; laspartate,pyridoxal5phosphate; pyridoxamine5phosphate,oxaloacetate; lglutamate,,kcat:394.5;Km1:0.59;Km2:46.300000000000004
+WP_000886683.1,6.1.1.11,,R37,Serine-trna ligase,MM,trnaser,atp,amp; diphosphate; lseryltrnaser; adp,Mg2+,kcat:0;Km:0.00056
+WP_000527955.1,6.3.4.4,,R38,Adenylosuccinate synthase,,laspartate; gtp; imp,gtp,gdp; phosphate; n6,Mg2+; Ba2+; Mn2+; Ca2+; Co2+; Cu2+,laspartate_Km: 0.23; laspartate_Kcat: 0; ; gtp_Km: 0.06050000000000001; gtp_Kcat: 1.4065; ; imp_Km: 0.04234285714285714; imp_Kcat: 1.0; 
+WP_000506490.1,1.3.1.9,,R39,Enoyl-acyl-carrier-protein reductase ,,,nadh; nad+; nadph,"atrans2,3dehydroacylacylcarrierprotein; nadh; h+",,
+WP_012767778.1,1.11.1.21,,R40,Catalase-peroxidase,MM,h2o2,heme,h2o; o2,Fe2+,kcat:5684.6;Km:741.6088888888888
+WP_001258678.1,6.1.1.-,,R41,,,,,,,
+WP_001157886.1,6.1.1.4,,R42,Leucine-trna ligase,SOBB,lleucine; trnaleu,atp,amp; diphosphate; lleucyltrnaleu; adp,Mg2+; Zn2+,kcat:24.28033333333333;Km1:378.0215;Km2:0.0013575
+WP_000136788.1,2.7.1.30,,R43,Glycerol kinase,,,atp,adp; snglycerol3phosphate,Mn2+; Mg2+; KCl,
+WP_001005579.1,4.1.1.31,,R44,Phosphoenolpyruvate carboxylase,,,acetylcoa,phosphoenolpyruvate; hco3,Mg2+,
+WP_001291772.1,6.1.1.14,,R45,Glycine-trna ligase,MM,trnagly,atp,amp; diphosphate; glycyltrnagly; adp,Mn2+; Mg2+,kcat:0;Km:0.0009933333333333333
+WP_001186650.1,2.3.1.117,,R46,,,,,,,
+WP_000623136.1,2.7.3.9,,R47,Phosphoenolpyruvate-protein phosphotransferase,MM,phosphoenolpyruvate,,pyruvate; proteinnpiphospholhistidinerephosphoenolpyruvate; proteinhistidine,Mg2+; Mn2+,kcat:0;Km:0.19
+WP_000195061.1,1.4.4.2,,R48,,,,,,,
+WP_000190506.1,7.1.2.2,,R49,H+-transporting two-sector atpase,,,atp,adp; phosphate; 4h+side2,Mn2+; Co2+; Mg2+; Selenite; Zn2+; Ca2+,
+WP_000034372.1,4.1.2.13,,R50,Fructose-bisphosphate aldolase,MM,"fructose1,6bisphosphate",,glyceronephosphate; glyceraldehyde3phosphate,Cd2+; K+; Mn2+; Zn2+,kcat:6.242500000000001;Km:0.18
+WP_001220233.1,2.7.4.3,,R51,Adenylate kinase,MM,amp,atp,2adp; adp,Mg2+; Mn2+; Ca2+; Ba2+; Co2+; Zn2+,kcat:0;Km:0.039
+WP_001293341.1,3.4.25.2,,R52,,,,,,,
+WP_000210878.1,6.3.4.2,,R53,Ctp synthase ,MM,lglutamine,atp,lglutamate; nh3reatp; utp; lglutamine,Mg2+; Mn2+; Co2+,kcat:1.41;Km:39.4
+WP_000334099.1,2.6.1.16,,R54,Glutamine-fructose-6-phosphate transaminase ,SOBB,lglutamine; fructose6phosphate,,lglutamate; glucosamine6phosphate,,kcat:10.780000000000001;Km1:0.22000000000000003;Km2:0.28
+WP_001062128.1,2.5.1.6,,R55,Methionine adenosyltransferase,MM,lmethionine,atp,phosphate; diphosphate+sadenosyllmethionine; adp,Mg2+; K+; Li+; Cs+; Tl+; NH4+; Co2+; Na+; Mn2+,kcat:1.3599999999999999;Km:0.11549999999999999
+WP_001176745.1,7.1.2.2,,R56,H+-transporting two-sector atpase,,,atp,adp; phosphate; 4h+side2,Mn2+; Co2+; Mg2+; Selenite; Zn2+; Ca2+,
+WP_000695655.1,6.1.1.17,,R57,Glutamate-trna ligase,MM,trnaglu,atp,amp; diphosphate; lglutamyltrnaglu; adp,Mg2+; Mn2+; Zn2+; Zinc,kcat:1.5029;Km:0.02895
+WP_001293003.1,3.4.13.18,,R58,,,,,,,
+WP_000091148.1,2.7.1.40,,R59,Pyruvate kinase,,,atp; adp,adp; phosphoenolpyruvate,Mg2+; Ca2+,
+WP_000086722.1,2.3.1.8,,R60,Phosphate acetyltransferase,SOBB,acetylcoa; phosphate,acetylcoa,coa; acetylphosphate,,kcat:29.6;Km1:0.045;Km2:1.8
+WP_001295305.1,5.4.2.11,,R61,Phosphoglycerate mutase ,,,,3phosphoglycerate,,
+WP_000988027.1,3.2.1.22,,R62,,,,,,,
+WP_000416403.1,6.1.1.9,,R63,Valine-trna ligase,SOBB,trnaval; lvaline,atp,amp; diphosphate; lvalyltrnaval; adp,Mg2+,kcat:17.025000000000002;Km1:9e-05;Km2:0.045825000000000005
+WP_001299507.1,1.1.1.205,,R64,Imp dehydrogenase,SOBB,nad+; imp,nad+; thiazole4carboxamideadeninedinucleotide; thionicotinamidenad+; acetylpyridinenad+; nadp+,xmp; nadh; h+,K+; NH4+; Na+; Cs+,kcat:0;Km1:1.085;Km2:0.013
+WP_001295403.1,2.7.1.40,,R65,Pyruvate kinase,,,atp; adp,adp; phosphoenolpyruvate,Mg2+; Ca2+,
+WP_001127419.1,4.2.1.9,,R66,Dihydroxy-acid dehydratase,,,,3methyl2oxobutanoate; h2o,Fe2+; Mg2+; Iron; Mn2+,
+WP_001144202.1,6.1.1.3,,R67,Threonine-trna ligase,SOBB,trnathr; lthreonine,atp; amp,amp; diphosphate; lthreonyltrnathr; adp,Mg2+; Ni2+; Zn2+,kcat:14.3;Km1:3e-05;Km2:0.1040075
+WP_000737621.1,7.4.2.1,,R68,Abc-type polar-amino-acid transporter,,,atp,adp; phosphate; polaraminoacidside2; polaraminoacidbindingproteinside1,,
+WP_000018596.1,6.1.1.20,,R69,Phenylalanine-trna ligase,SOBB,trnaphe; lphenylalanine,atp,amp; diphosphate+lphenylalanyltrnaphe; adp,Zn2+; Mg2+,kcat:99.723375;Km1:0.002875;Km2:0.002
+WP_000695387.1,7.5.2.1,,R70,Abc-type maltose transporter,,,atp,adp; phosphate+maltoseside2; maltosebindingproteinside1,Mg2+,
+WP_001295247.1,4.1.99.1,,R71,Tryptophanase,MM,ltryptophan,pyridoxal5phosphate,indole; pyruvate; nh3,Mg2+; Na+; Cl-; Li+; Rb+; Cs+; K+; NH4+; Tl+; sulfate,kcat:5.0;Km:21.7875
+WP_000117881.1,6.1.1.22,,R72,Asparagine-trna ligase,,,atp,amp; diphosphate+lasparaginyltrnaasn; adp,,
+WP_001107167.1,6.1.1.21,,R73,Histidine-trna ligase,SOBB,lhistidine; trnahis,atp,amp; diphosphate; lhistidyltrnahis; adp,Mg2+,kcat:66.01;Km1:0.03;Km2:0.00034
+WP_001300978.1,6.1.1.10,,R74,Methionine-trna ligase,SOBB,lmethionine; trnamet,atp,amp; diphosphate; lmethionyltrnamet; adp,Mg2+; Mn2+; Zn2+,kcat:8.9375;Km1:7.9;Km2:50.00584
+WP_000884639.1,6.3.4.14,,R75,Biotin carboxylase,,,atp,adp; phosphate; biotincarboxylcarrierproteincarboxybiotinn6llysine,Mg2+; Mn2+; Co2+; K+; Ca2+,
+WP_001297114.1,7.4.2.-,,R76,,,,,,,
+WP_001301026.1,6.1.1.1,,R77,Tyrosine-trna ligase,SOBB,trnatyr; ltyrosine,atp,amp; diphosphate; ltyrosyltrnatyr; adp,Mg2+,kcat:4.7875;Km1:1.755185;Km2:497.5039325
+WP_000084387.1,1.11.1.-,,R78,,,,,,,
+WP_000597260.1,6.3.5.5,,R79,Carbamoyl-phosphate synthase ,MM,lglutamine,imp; amp; gdp; gmp; idp; atp,2adp; phosphate+lglutamate; carbamoylphosphaterelglutamine; h2o,Mn2+; NH4+; K+; Mg2+,kcat:2.13;Km:0.125
+WP_001120798.1,1.6.1.1,,R80,Nad+ transhydrogenase ,,,flavin; nadph,nadp+; nadh,,
+WP_000817178.1,2.3.1.41,,R81,Beta-ketoacyl-acyl-carrier-protein synthase i,,,,a3oxoacylacylcarrierprotein; co2; anacylcarrierprotein,,
+WP_001271717.1,6.3.1.2,,R82,Glutamine synthetase,,,atp,adp; phosphate; lglutamine,Mn2+; Mg2+,
+WP_000138270.1,6.3.5.2,,R83,Gmp synthase ,SOBB,xmp; nh3,atp,amp; diphosphate; gmpreatp; xmp; lglutamine; h2o; adp,Mg2+,kcat:18.15;Km1:148.05239999999998;Km2:0.103
+WP_001320168.1,3.2.1.93,,R84,"Alpha,alpha-phosphotrehalase",,,,glucose; glucose6phosphate,,
+WP_001295214.1,3.4.24.70,,R85,,,,,,,
+WP_000003071.1,6.1.1.6,,R86,Lysine-trna ligase,SOBB,trnalys; llysine,atp,amp; diphosphate; llysyltrnalys; adp,NH4+; Mg2+; Zn2+,kcat:1.8;Km1:0.00385;Km2:0.0093
+WP_000963837.1,2.7.4.6,,R87,Nucleoside-diphosphate kinase,,,atp,adp; nucleosidetriphosphate,Mg2+; Mn2+,
+WP_000007283.1,1.15.1.1,,R88,Superoxide dismutase,,,,o2; h2o2,Zn2+; Cu2+; Mn2+; Iron; Manganese,
+WP_000342648.1,1.1.1.40,,R89,Malate dehydrogenase  ,,,nadp+; nadph,co2; pyruvate,KCl; NH4Cl; Mn2+; Mg2+,
+WP_001230087.1,4.3.2.1,,R90,,,,,,,
+WP_000078239.1,6.2.1.1,,R91,Acetate-coa ligase,,,atp,amp; diphosphate; acetylcoa; adp,,
+WP_001298109.1,2.7.6.1,,R92,Ribose-phosphate diphosphokinase,MM,ribose5phosphate,atp,amp; 5phosphoribose1diphosphate; adp,Mg2+,kcat:0;Km:0.19
+WP_000522247.1,2.7.1.199,,R93,Protein-npi-phosphohistidine-d-glucose phosphotransferase,MM,glucoseside1,,glucose6phosphateside2; proteinlhistidine,,kcat:0;Km:0.06
+WP_001216325.1,5.3.1.1,,R94,Triose-phosphate isomerase,MM,glyceraldehyde3phosphate,,glyceronephosphate,,kcat:9000.0;Km:1.03
+WP_001295554.1,2.7.7.8,,R95,Polyribonucleotide nucleotidyltransferase,,,,rnan; anucleosidediphosphate,Ca2+; Zn2+; Cu2+; Co2+; Ni2+; Cd2+; Mg2+; Mn2+,
+WP_000193841.1,3.4.11.2,,R96,,,,,,,
+WP_000537418.1,1.8.1.9,,R97,Thioredoxin-disulfide reductase,MM,thioredoxin,nadph; fad; nadh; 3acetylpyridineadeninedinucleotide; nadp+,thioredoxindisulfide; nadph; h+,,kcat:22.4;Km:0.0016250000000000001
+WP_000811065.1,2.5.1.55,,R98,,,,,,,
+WP_000207665.1,6.3.4.5,,R99,Argininosuccinate synthase,,,atp,amp; diphosphate+2; adp,,
+WP_001320171.1,5.4.2.2,,R100,Phosphoglucomutase ,,,,glucose6phosphate,,
+WP_001287154.1,6.1.1.18,,R101,Glutamine-trna ligase,SOBB,lglutamine; trnagln,atp,amp; diphosphate; lglutaminyltrnagln; adp,Mn2+; Mg2+; Co2+,kcat:3.5275;Km1:0.18800000000000003;Km2:0.1550095
+WP_000477227.1,5.2.1.8,,R102,,,,,,,
+WP_000843866.1,7.4.2.1,,R103,Abc-type polar-amino-acid transporter,,,atp,adp; phosphate; polaraminoacidside2; polaraminoacidbindingproteinside1,,
+WP_001213837.1,2.3.1.29,,R104,Glycine c-acetyltransferase,SOBB,acetylcoa; glycine,pyridoxal5phosphate; acetylcoa,coa; l2amino3oxobutanoate,,kcat:0;Km1:0.059;Km2:12.0
+WP_000057149.1,2.6.1.52,,R105,Phosphoserine transaminase,,,pyridoxal5phosphate,3phosphooxypyruvate+lglutamate3hydroxy2oxo4phosphooxybutanoate; lglutamate,,
+WP_000045290.1,5.4.3.8,,R106,"Glutamate-1-semialdehyde 2,1-aminomutase",,,pyridoxal5phosphate,5aminolevulinate,,
+WP_012767746.1,7.1.1.-,,R107,,,,,,,
+WP_000208515.1,2.6.1.42,,R108,Branched-chain-amino-acid transaminase,SOBB,lleucine; 2oxoglutarate,pyridoxal5phosphate,4methyl2oxopentanoate; lglutamate,,kcat:63.0;Km1:1.0666666666666667;Km2:1.848888888888889
+WP_000068701.1,2.1.2.10,,R109,,,,,,,
+WP_000095707.1,2.7.2.1,,R110,Acetate kinase,MM,acetate,atp; adp,adp; acetylphosphatereatp; propanoate,Mg2+; Mn2+,kcat:976.25;Km:72.64999999999999
+WP_000224879.1,2.4.2.1,,R111,Purine-nucleoside phosphorylase,MM,phosphate,,purine; ribose1phosphaterepurine2deoxyribonucleoside; phosphate,,kcat:50.61333333333334;Km:0.33875
+WP_001021161.1,2.5.1.78,,R112,,,,,,,
+WP_000587764.1,5.1.3.20,,R113,Adp-glyceromanno-heptose 6-epimerase,MM,adpglyceromannoheptose,nadp+; nad+,adplglyceromannoheptose,,kcat:0;Km:0.1
+WP_000444561.1,3.4.13.9,,R114,,,,,,,
+WP_001297064.1,1.15.1.1,,R115,Superoxide dismutase,,,,o2; h2o2,Zn2+; Cu2+; Mn2+; Iron; Manganese,
+WP_001025322.1,6.1.1.19,,R116,Arginine-trna ligase,SOBB,larginine; trnaarg,atp,amp; diphosphate; larginyltrnaarg; adp,Mg2+; Mn2+; Co2+; Fe2+; K+,kcat:14.539999999999997;Km1:0.011000000000000001;Km2:0.002191428571428572
+WP_000351477.1,1.5.1.34,,R117,,,,,,,
+WP_000917208.1,1.16.3.2,,R118,,,,,,,
+WP_000284050.1,5.3.1.28,,R119,D-sedoheptulose 7-phosphate isomerase,MM,sedoheptulose7phosphate,,glyceromannoheptose7phosphate,,kcat:0.44;Km:1.2
+WP_000055072.1,3.6.1.1,,R120,Inorganic diphosphatase,MM,diphosphate,,2phosphate,Mg2+; Co2+; Mn2+; lanthanum,kcat:153.5;Km:0.15695
+WP_000191372.1,2.3.1.39,,R121,acyl-carrier-protein s-malonyltransferase,SOBB,malonylcoa; anacylcarrierprotein,,coa; amalonylacylcarrierprotein,,kcat:2630.000235;Km1:0.029699999999999997;Km2:0.03
+WP_000646014.1,1.1.1.103,,R122,L-threonine 3-dehydrogenase,SOBB,nad+; lthreonine,nad+,l2amino3oxobutanoate; nadh; h+,Zn2+; Iron,kcat:135.0;Km1:0.30773333333333336;Km2:63.34875571428571
+WP_001295090.1,6.1.1.6,,R123,Lysine-trna ligase,SOBB,trnalys; llysine,atp,amp; diphosphate; llysyltrnalys; adp,NH4+; Mg2+; Zn2+,kcat:1.8;Km1:0.00385;Km2:0.0093
+WP_000072067.1,5.6.2.2,,R124,,,,,,,
+WP_000844219.1,1.1.1.251,,R125,Galactitol-1-phosphate 5-dehydrogenase,,,nad+,tagatose6phosphate; nadh; h+,Zn2+,
+WP_000045178.1,2.4.2.3,,R126,Uridine phosphorylase,SOBB,phosphate; uridine,,uracil; ribose1phosphate,,kcat:0;Km1:2.9;Km2:0.91
+WP_000227927.1,4.2.1.59,,R127,3-hydroxyacyl-acyl-carrier-protein dehydratase,,,,atrans2enoylacylcarrierprotein; h2o,,
+WP_000122253.1,3.4.21.92,,R128,,,,,,,
+WP_001295469.1,4.3.3.7,,R129,,,,,,,
+WP_000255997.1,5.2.1.8,,R130,,,,,,,
+WP_000133580.1,3.4.11.23,,R131,Pepb aminopeptidase,,,,leu; met,Mg2+; Mn2+; Ca2+; Co2+,
+WP_001130211.1,4.4.1.21,,R132,,,,,,,
+WP_000130305.1,3.4.21.92,,R133,,,,,,,
+WP_000288146.1,2.3.1.180,,R134,Beta-ketoacyl-acyl-carrier-protein synthase iii,MM,acetylcoa,acetylcoa,anacetoacetylacylcarrierprotein; coa; co2,Mg2+,kcat:0;Km:0.042499999999999996
+WP_000165552.1,6.1.1.2,,R135,Tryptophan-trna ligase,SOBB,ltryptophan; trnatrp,atp,amp; diphosphate; ltryptophyltrnatrp; adp,,kcat:13.9;Km1:0.017;Km2:0.00062
+WP_000175052.1,6.3.1.5,,R136,Nad+ synthase,SOBB,deamidonad+; nh3,atp,amp; diphosphate; nad+; adp,Mg2+; Mn2+,kcat:0;Km1:0.11;Km2:0.065
+WP_000753946.1,3.4.21.107,,R137,,,,,,,
+WP_000413677.1,6.3.2.4,,R138,D-alanine-d-alanine ligase,,,atp,adp; phosphate; alanylalanine,Mg2+,
+WP_001018194.1,3.4.11.18,,R139,,,,,,,
+WP_000484965.1,3.1.13.1,,R140,,,,,,,
+WP_000799969.1,1.2.1.11,,R141,Aspartate-semialdehyde dehydrogenase,,laspartate4semialdehyde; phosphate; nadp+,nadp+; nadph; nadh; nad+,l4aspartylphosphate+nadph; h+,,laspartate4semialdehyde_Km: 0.2; laspartate4semialdehyde_Kcat: 0; ; phosphate_Km: 5.95; phosphate_Kcat: 0; ; nadp+_Km: 562.5500000000001; nadp+_Kcat: 258.0; 
+WP_000250006.1,2.7.7.7,,R142,Dna-directed dna polymerase,,,,diphosphate; dnan+1,Mg2+; Zn2+,
+WP_000818618.1,2.7.1.71,,R143,Shikimate kinase,MM,shikimate,atp,adp; 3phosphoshikimate,Fe2+; Ca2+; Co2+; Mn2+; Mg2+,kcat:55.86;Km:6.390499999999999
+WP_000071134.1,5.4.2.10,,R144,Phosphoglucosamine mutase,MM,glucosamine1phosphate,,glucosamine6phosphate,Mg2+,kcat:0;Km:0.08
+WP_000551807.1,1.17.7.1,,R145,-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase ,,,,"2cmethylerythritol2,4cyclodiphosphate; 2reducedferredoxin",,
+WP_001187559.1,2.1.2.3,,R146,,,,,,,
+WP_000211237.1,5.2.1.8,,R147,,,,,,,
+WP_001300904.1,4.1.1.19,,R148,Arginine decarboxylase,MM,larginine,pyridoxal5phosphate,agmatine; co2,Mg2+; Mn2+,kcat:0;Km:0.34
+WP_000800512.1,4.1.2.14,,R149,2-dehydro-3-deoxy-phosphogluconate aldolase,MM,2dehydro3deoxy6phosphogluconate,thiaminediphosphate,pyruvate; glyceraldehyde3phosphate,,kcat:83.0;Km:415.05
+WP_000189743.1,5.3.1.6,,R150,Ribose-5-phosphate isomerase,MM,ribose5phosphate,,ribulose5phosphate,,kcat:2100.0;Km:2.776666666666667
+WP_001168544.1,6.1.1.14,,R151,Glycine-trna ligase,MM,trnagly,atp,amp; diphosphate; glycyltrnagly; adp,Mn2+; Mg2+,kcat:0;Km:0.0009933333333333333
+WP_001295286.1,2.6.1.87,,R152,,,,,,,
+WP_001300411.1,4.2.1.-,,R153,,,,,,,
+WP_000700894.1,5.3.1.25,,R154,L-fucose isomerase,,,,lfuculose,Mn2+; Co2+,
+WP_000912345.1,6.1.1.16,,R155,Cysteine-trna ligase,SOBB,lcysteine; trnacys,atp,amp; diphosphate; lcysteinyltrnacys; adp,Mg2+; Co2+; Zn2+,kcat:22.5317;Km1:166.68173333333334;Km2:0.007802727272727273
+WP_000591795.1,2.7.1.11,,R156,6-phosphofructokinase,,,atp,"adp; betafructofuranose1,6bisphosphate",Mg2+; Mn2+; Co2+; K+,
+WP_000423729.1,4.3.2.2,,R157,,,,,,,
+WP_000555849.1,3.5.1.10,,R158,Formyltetrahydrofolate deformylase,MM,10formyltetrahydrofolate,,formate; tetrahydrofolate,,kcat:0;Km:0.049
+WP_001300813.1,4.2.1.24,,R159,Porphobilinogen synthase,,,,porphobilinogen; 2h2o,Zn2+; Mg2+; Zinc,
+WP_000115936.1,1.2.1.-,,R160,,,,,,,
+WP_000135058.1,2.7.7.6,,R161,Dna-directed rna polymerase,,,,diphosphate; rnan+1,Zinc; K+; Mg2+,
+WP_000553451.1,3.1.3.25,,R162,Inositol-phosphate phosphatase,,,,myoinositol; phosphate,Mg2+; Co2+; Mn2+; Zn2+; Fe2+; Ni2+; Li+,
+WP_000857856.1,4.1.3.1,,R163,Isocitrate lyase,MM,isocitrate,,succinate; glyoxylate,Mg2+; Sr2+; Ni2+; Mn2+; Co2+,kcat:0;Km:0.45
+WP_001235264.1,1.3.5.1,,R164,Succinate dehydrogenase,MM,succinate,"benzylviologen; quinone; plumbagin; 2,3dimethoxy5methyl6pentyl1,4benzoquinone; menaquinol6; hemeb556; flavinadeninedinucleotide; phenazinemethosulfate; fescenter; fad; hemeb; ironsulfurcentre; cytochromeb; heme; fescluster; flavin; 3fe4scenter",fumarate; aquinol,anions; Iron; Fe-S-clusters; Fe2+; Fe,kcat:23.0;Km:27.275
+WP_000861334.1,5.2.1.8,,R165,,,,,,,
+WP_001353848.1,5.1.3.-,,R166,,,,,,,
+WP_000162740.1,2.8.4.3,,R167,,,,,,,
+WP_000816480.1,5.4.2.7,,R168,Phosphopentomutase,MM,ribose1phosphate,,ribose5phosphate,Co2+; Mn2+; Ni2+,kcat:0;Km:0.043
+WP_000699450.1,4.2.1.46,,R169,"Dtdp-glucose 4,6-dehydratase",MM,dtdpglucose,nad+; nadh,dtdp4dehydro6deoxyglucose; h2o,,kcat:1.7000000000000002;Km:0.5813
+WP_001008532.1,1.1.1.100,,R170,,,,,,,
+WP_001301272.1,3.5.1.16,,R171,Acetylornithine deacetylase,MM,n2acetyllornithine,,acetate; lornithine,Zn2+; PO43-; Co2+,kcat:2700.0;Km:1.0
+WP_000860273.1,1.1.1.305,,R172,Udp-glucuronic acid dehydrogenase udp-4-keto-hexauronic acid,MM,udpglucuronate,nadh; nad+,co2; h; nadh; udpbetalthreopentapyranos4ulose,,kcat:0;Km:0.28800000000000003
+WP_000759317.1,7.6.2.-,,R173,,,,,,,
+WP_000689844.1,3.2.2.16,,R174,Methylthioadenosine nucleosidase,MM,smethyl5thioadenosine,,smethyl5thioribose; adenine,,kcat:0.32;Km:1150.0000695
+WP_000807125.1,3.9.1.-,,R175,,,,,,,
+WP_000208242.1,3.4.25.2,,R176,,,,,,,
+WP_001012606.1,2.2.1.6,,R177,Acetolactate synthase,,,thiaminediphosphate; fad,2acetolactate; co2,Mg2+; Ca2+; Cd2+; Mn2+; K+,
+WP_001109196.1,2.5.1.54,,R178,,,,,,,
+WP_000189159.1,1.5.1.38,,R179,Fmn reductase ,MM,fmn,nadph; nadh; nadp+,fmnh2; nadp; nadp+,,kcat:4.25;Km:19.37
+WP_000593273.1,6.3.2.3,,R180,Glutathione synthase,,,atp,adp; phosphate+glutathione,Mg2+; Co2+; Mn2+,
+WP_000636571.1,1.1.1.298,,R181,3-hydroxypropionate dehydrogenase ,,,nadph,3hydroxypropanoate; nadp; nadp+,,
+WP_000789500.1,1.6.5.9,,R182,,,,,,,
+WP_000779102.1,3.1.4.46,,R183,Glycerophosphodiester phosphodiesterase,,,,aprimaryalcohol; snglycerol3phosphate,Ca2+; Mg2+; Mn2+; Co2+,
+WP_001295473.1,2.4.2.9,,R184,Uracil phosphoribosyltransferase,,,,uracil; 5phosphoribose1diphosphate,Mg2+; Mn2+; Co2+; Zn2+,
+WP_000099534.1,4.2.1.3,,R185,Aconitate hydratase,MM,citrate,,cisaconitate; h2o,Mg2+; Iron; Fe2+; Fe,kcat:0;Km:6.08
+WP_000624298.1,4.3.1.17,,R186,L-serine ammonia-lyase,MM,lserine,,pyruvate; nh3relserine,Fe2+; Iron,kcat:490.0;Km:3.735
+WP_000081903.1,2.4.1.1,,R187,,,,,,,
+WP_000683335.1,2.4.2.8,,R188,Hypoxanthine phosphoribosyltransferase,,,,hypoxanthine; 5phosphoribose1diphosphate,Mn2+; Mg2+,
+WP_000790168.1,3.6.5.n1,,R189,,,,,,,
+WP_001068682.1,1.11.1.24,,R190,Thioredoxin-dependent peroxiredoxin,,,,h2o; roh; thioredoxindisulfide,,
+WP_000177906.1,3.2.1.23,,R191,,,,,,,
+WP_000118404.1,6.4.1.2,,R192,Acetyl-coa carboxylase,,,atp; biotin,adp; phosphate; malonylcoa,Mg2+; Mn2+,
+WP_001303675.1,1.1.1.60,,R193,,,,,,,
+WP_000433476.1,1.1.1.38,,R194,Malate dehydrogenase ,MM,oxaloacetate,nad+; nadh; nicotinamidecytosinedinucleotide,co2; pyruvate,Mn2+; Mg2+,kcat:0;Km:3.9666666666666663
+WP_000357259.1,2.5.1.7,,R195,Udp-n-acetylglucosamine 1-carboxyvinyltransferase,SOBB,phosphoenolpyruvate; udpnacetylglucosamine,,phosphate+udpnacetyl3o,,kcat:3.8625000000000007;Km1:0.0004;Km2:0.0255
+WP_001281254.1,5.6.2.2,,R196,,,,,,,
+WP_001338652.1,4.3.1.19,,R197,Threonine ammonia-lyase,MM,lthreonine,adp; pyridoxal5phosphate; amp,2oxobutanoate; nh3re2iminobutanoate; h2o,,kcat:1414.0;Km:14.5
+WP_001196611.1,3.6.4.-,,R198,,,,,,,
+WP_001300598.1,3.4.15.5,,R199,,,,,,,
+WP_001297122.1,5.6.2.1,,R200,,,,,,,
+WP_000611804.1,6.3.2.2,,R201,Glutamate-cysteine ligase,SOBB,lglutamate; lcysteine,atp,adp; phosphate+gammalglutamyllcysteine,Mg2+; Mn2+; Cu2+,kcat:31.075;Km1:3.1022499999999997;Km2:159.72505999999998
+WP_000963792.1,2.6.1.11,,R202,Acetylornithine transaminase,SOBB,n2acetyllornithine; 2oxoglutarate,pyridoxal5phosphate,nacetyllglutamate5semialdehyde; lglutamate,Ni2+,kcat:0;Km1:0.48;Km2:2.5
+WP_000160808.1,1.8.1.7,,R203,Glutathione-disulfide reductase,,,nadph; fad; flavin,glutathionedisulfide; nadph; h+,,
+WP_000153940.1,2.1.1.14,,R204,,,,,,,
+WP_000176278.1,4.1.1.23,,R205,Orotidine-5-phosphate decarboxylase,MM,orotidine5phosphate,,ump; co2,,kcat:42.0;Km:7500.0014
+WP_000586449.1,5.3.1.16,,R206,,,,,,,
+WP_000920840.1,5.1.3.29,,R207,,,,,,,
+WP_000861734.1,2.3.1.-,,R208,,,,,,,
+WP_000224714.1,4.1.3.3,,R209,N-acetylneuraminate lyase,,,,nacetylmannosamine; pyruvate,,
+WP_000545042.1,1.6.5.9,,R210,,,,,,,
+WP_000896498.1,7.1.2.2,,R211,H+-transporting two-sector atpase,,,atp,adp; phosphate; 4h+side2,Mn2+; Co2+; Mg2+; Selenite; Zn2+; Ca2+,
+WP_000970117.1,6.3.5.3,,R212,,,,,,,
+WP_001290699.1,1.8.1.2,,R213,Assimilatory sulfite reductase ,,,flavin; 4fe4scenter; nadph; fmn; siroheme; fad; heme,sulfite; 3nadph; 3h+,Iron-sulfur cluster,
+WP_001295467.1,6.3.2.6,,R214,,,,,,,
+WP_000871512.1,3.2.1.21,,R215,,,,,,,
+WP_000080085.1,3.1.3.15,,R216,Histidinol-phosphatase,MM,lhistidinolphosphate,,lhistidinol; phosphate,Zn2+; Mn2+; Co2+,kcat:1136.25;Km:0.048999999999999995
+WP_000114984.1,3.5.1.88,,R217,Peptide deformylase,,,,formate; methionylpeptide,Zn2+; Fe2+; Ni2+; Fe; Co2+; Mn2+; Fe3+; Cu2+,
+WP_000869178.1,2.7.1.167,,R218,,,,,,,
+WP_000789986.1,5.3.1.9,,R219,Glucose-6-phosphate isomerase,MM,glucose6phosphate,,betafructofuranose6phosphate,,kcat:0;Km:0.28
+WP_000397144.1,3.4.11.1,,R220,,,,,,,
+WP_000853753.1,3.1.3.11,,R221,Fructose-bisphosphatase,MM,"fructose1,6bisphosphate",,fructose6phosphate; phosphate,Mn2+; Mg2+; KCl,kcat:6.133333333333333;Km:0.06774166666666666
+WP_000816280.1,5.1.3.1,,R222,Ribulose-phosphate 3-epimerase,,,,xylulose5phosphate,Mn2+; Zn2+; Co2+; Fe2+,
+WP_000127356.1,2.4.2.7,,R223,Adenine phosphoribosyltransferase,,,,adenine; 5phosphoribose1diphosphate,Mg2+; Ca2+,
+WP_000084590.1,4.98.1.1,,R224,Protoporphyrin ferrochelatase,,,,protoporphyrin; fe2+,,
+WP_000089084.1,1.2.1.8,,R225,Betaine-aldehyde dehydrogenase,SOBB,betainealdehyde; nad+,nadp+,betaine; nadh; 2h+,K+,kcat:0;Km1:2.1525;Km2:0.1295625
+WP_000116565.1,5.4.2.12,,R226,Phosphoglycerate mutase ,,,,3phosphoglycerate,,
+WP_000853869.1,4.1.2.40,,R227,Tagatose-bisphosphate aldolase,,,,glyceronephosphate; glyceraldehyde3phosphate,Zn2+,
+WP_000639996.1,4.1.3.36,,R228,,,,,,,
+WP_000332036.1,1.17.4.1,,R229,,,,,,,
+WP_001217335.1,1.7.1.7,,R230,Gmp reductase,,,nadph,gmp; nadph; h+,,
+WP_000893272.1,1.2.1.41,,R231,Glutamate-5-semialdehyde dehydrogenase,,,nadph; nadh,lglutamate5semialdehyde+phosphate; nadp+,,
+WP_000209826.1,1.5.1.41,,R232,Riboflavin reductase nadh,MM,riboflavin,nadph; nadh,nad; reducedriboflavin; nad+,,kcat:0;Km:0.0011
+WP_001291990.1,2.4.2.22,,R233,Xanthine phosphoribosyltransferase,,,,5phosphoribose1diphosphate; xanthine,Mg2+,
+WP_000493947.1,2.5.1.9,,R234,,,,,,,
+WP_001058802.1,1.1.1.2,,R235,Alcohol dehydrogenase ,,,nadph; nadp+,analdehyde; nadph; h+,Zn2+,
+WP_001290123.1,3.4.11.9,,R236,,,,,,,
+WP_001151604.1,1.1.1.95,,R237,Phosphoglycerate dehydrogenase,SOBB,3phosphoglycerate; nad+,nad+; nadh; deaminonadh; 3acetylpyridinenadh; nadph,3phosphooxypyruvate; nadh; h+,,kcat:6.75;Km1:0.795;Km2:0.0079
+WP_001302318.1,2.7.2.8,,R238,Acetylglutamate kinase,MM,nacetyllglutamate,atp,adp; nacetyllglutamyl5phosphate,Mg2+,kcat:0;Km:0.75
+WP_001109486.1,3.1.2.6,,R239,,,,,,,
+WP_001162160.1,3.4.24.-,,R240,,,,,,,
+WP_000866792.1,6.3.4.13,,R241,Phosphoribosylamine-glycine ligase,,,atp,adp; phosphate+n1,,
+WP_000816234.1,2.1.1.45,,R242,Thymidylate synthase,MM,dump,"n5,n10methylenetetrahydrofolate; methenyltetrahydropteroylglutamate; methenyltetrahydrofolate; methylenetetrahydrofolate; 5,10methylene5,6,7,8tetrahydrofolate",dihydrofolate; dtmp,Mg2+,kcat:0.016;Km:0.05
+WP_001170661.1,5.3.1.8,,R243,Mannose-6-phosphate isomerase,MM,mannose6phosphate,,fructose6phosphate,Zn2+,kcat:0;Km:0.782
+WP_000131757.1,2.4.2.17,,R244,,,,,,,
+WP_000673918.1,3.1.11.2,,R245,,,,,,,
+WP_000337081.1,6.3.5.4,,R246,Asparagine synthase ,SOBB,lglutamine; laspartate,atp,amp; diphosphate+lasparagine; lglutamate; adp,Mg2+; Co2+,kcat:2.345;Km1:1.4125;Km2:0.765
+WP_000219193.1,3.6.4.13,,R247,,,,,,,
+WP_000224573.1,2.7.4.22,,R248,Ump kinase,MM,ump,atp,adp; udp,Mg2+,kcat:0;Km:0.07725
+WP_000818411.1,2.5.1.16,,R249,,,,,,,
+WP_000354622.1,6.4.1.2,,R250,Acetyl-coa carboxylase,,,atp; biotin,adp; phosphate; malonylcoa,Mg2+; Mn2+,
+WP_001288587.1,7.1.2.2,,R251,H+-transporting two-sector atpase,,,atp,adp; phosphate; 4h+side2,Mn2+; Co2+; Mg2+; Selenite; Zn2+; Ca2+,
+WP_000981380.1,3.1.21.3,,R252,,,,,,,
+WP_000998544.1,2.6.1.33,,R253,,,,,,,
+WP_000872833.1,1.5.3.2,,R254,N-methyl-l-amino-acid oxidase,,,,anlaminoacid; formaldehyde+h2o2,,
+WP_001298007.1,3.6.1.23,,R255,Dutp diphosphatase,MM,dutp,,dump; diphosphate,Mg2+; Mn2+; Zn2+; VO2+,kcat:10.15;Km:3333.50031
+WP_000166449.1,1.20.4.1,,R256,Arsenate reductase ,MM,arsenate,,arsenite; aglutaredoxinglutathionedisulfide; h2o,,kcat:0;Km:8.0
+WP_000055909.1,3.4.24.-,,R257,,,,,,,
+WP_000785116.1,6.3.2.13,,R258,"Udp-n-acetylmuramoyl-l-alanyl-d-glutamate-2,6-diaminopimelate ligase",,,atp,adp; phosphate+udpnacetylmuramoyllalanylgammaglutamylmeso26diaminoheptanedioate,K+,
+WP_001284618.1,1.8.4.12,,R259,Peptide-methionine -s-oxide reductase,,,thioredoxin; dithiothreitol; nadph,h2o; lmethionine; thioredoxindisulfide,Zn2+; Fe2+,
+WP_000473109.1,2.8.1.1,,R260,Thiosulfate sulfurtransferase,MM,thiosulfate,,sulfite; thiocyanate,,kcat:245.0;Km:41.3
+WP_000442860.1,6.3.1.-,,R261,,,,,,,
+WP_000004655.1,5.2.1.8,,R262,,,,,,,
+WP_000197884.1,5.1.1.1,,R263,Alanine racemase,MM,lalanine,pyridoxal5phosphate,alanine,,kcat:53.98;Km:3.3901000000000003
+WP_001354020.1,2.5.1.61,,R264,Hydroxymethylbilane synthase,,,dipyrromethane,hydroxymethylbilane; 4nh3,,
+WP_000765749.1,2.5.1.18,,R265,Glutathione transferase,MM,glutathione,,hx; rsglutathione,,kcat:7.7;Km:0.3
+WP_000301651.1,1.1.1.1,,R266,Alcohol dehydrogenase,,,nad+; nadh,analdehyde; nadh; h+reasecondaryalcohol; nad+,,
+WP_000941942.1,2.4.2.1,,R267,Purine-nucleoside phosphorylase,MM,phosphate,,purine; ribose1phosphaterepurine2deoxyribonucleoside; phosphate,,kcat:50.61333333333334;Km:0.33875
+WP_000137657.1,4.1.1.37,,R268,Uroporphyrinogen decarboxylase,,,,coproporphyrinogeniii; 4co2,,
+WP_000397372.1,2.10.1.1,,R269,Molybdopterin molybdotransferase,,,,molybdenumcofactor; amp; h2o,,
+WP_001297412.1,2.6.99.2,,R270,,,,,,,
+WP_000781063.1,4.2.3.1,,R271,Threonine synthase,MM,ophospholhomoserine,pyridoxal5phosphate,lthreonine; phosphate,Zn2+,kcat:4.0;Km:0.34
+WP_000806177.1,2.4.2.10,,R272,Orotate phosphoribosyltransferase,SOBB,diphosphate; orotidine5phosphate,,orotate+5phosphoribose1diphosphate,Mg2+; Mn2+; Ba2+; Ca2+; Co2+,kcat:0;Km1:0.013;Km2:0.0033499999999999997
+WP_000857508.1,2.7.7.24,,R273,Glucose-1-phosphate thymidylyltransferase,SOBB,glucose1phosphate; dttp,,diphosphate; dtdpglucose,Mn2+; Mg2+,kcat:0;Km1:0.034;Km2:0.0205
+WP_001239440.1,7.1.1.-,,R274,,,,,,,
+WP_001319167.1,3.2.1.86,,R275,,,,,,,
+WP_012767740.1,1.1.1.23,,R276,Histidinol dehydrogenase,,,nad+,lhistidine; 2nadh; 3h+,Zn2+; Cd2+; Mg2+; Cu2+; Co2+; Ni2+; Mn2+,
+WP_000796481.1,6.3.2.9,,R277,Udp-n-acetylmuramoyl-l-alanine-d-glutamate ligase,SOBB,glutamate; udpnacetylmuramoyllalanine,atp,adp+phosphate; udpnacetylmuramoyllalanylglutamate; adp,Mg2+; Mn2+; Zn2+; Ca2+; phosphate; Cd2+; sulfate; vanadate; arsenate; potassium phosphate,kcat:1.75923125;Km1:0.5956666666666667;Km2:0.09464285714285715
+WP_000584546.1,6.3.2.12,,R278,Dihydrofolate synthase,MM,"7,8dihydropteroate",atp,"adp; phosphate+7,8dihydropteroylglutamate",K+; NH4+; Mg2+; Rb+,kcat:0;Km:0.0006
+WP_001166395.1,1.17.7.4,,R279,,,,,,,
+WP_001219792.1,6.3.2.45,,R280,,,,,,,
+WP_001295331.1,1.5.1.2,,R281,,,,,,,
+WP_001203392.1,3.1.3.-,,R282,,,,,,,
+WP_001100801.1,5.1.3.13,,R283,"Dtdp-4-dehydrorhamnose 3,5-epimerase",MM,dtdp4dehydro6deoxyglucose,,dtdp4dehydrobetalrhamnose,,kcat:0;Km:0.025
+WP_001295412.1,4.1.2.4,,R284,Deoxyribose-phosphate aldolase,MM,2deoxyribose5phosphate,,glyceraldehyde3phosphate+acetaldehyde,,kcat:41.5;Km:43.57866666666666
+WP_001043882.1,1.8.4.14,,R285,,,,,,,
+WP_000072420.1,1.6.5.10,,R286,Nadph dehydrogenase ,,,nadph; fad,nadp+; aquinol,,
+WP_000935370.1,1.2.1.38,,R287,,,,,,,
+WP_000626688.1,6.3.2.10,,R288,Udp-n-acetylmuramoyl-tripeptide-d-alanyl-d-alanine ligase,,,atp,adp; phosphate+udpnacetylmuramoyllalanylgammaglutamylllysylalanyldalanine,Mg2+,
+WP_001107467.1,3.4.24.-,,R289,,,,,,,
+WP_001251965.1,7.1.2.2,,R290,H+-transporting two-sector atpase,,,atp,adp; phosphate; 4h+side2,Mn2+; Co2+; Mg2+; Selenite; Zn2+; Ca2+,
+WP_012767721.1,3.6.1.-,,R291,,,,,,,
+WP_000955917.1,2.7.3.9,,R292,Phosphoenolpyruvate-protein phosphotransferase,MM,phosphoenolpyruvate,,pyruvate; proteinnpiphospholhistidinerephosphoenolpyruvate; proteinhistidine,Mg2+; Mn2+,kcat:0;Km:0.19
+WP_000486988.1,2.6.1.57,,R293,Aromatic-amino-acid transaminase,MM,2oxoglutarate,pyridoxal5phosphate,anaromaticoxoacid+lglutamate,,kcat:278.0;Km:1.1866666666666668
+WP_000715216.1,5.3.4.1,,R294,,,,,,,
+WP_000042632.1,2.8.1.8,,R295,,,,,,,
+WP_001175605.1,4.2.1.126,,R296,N-acetylmuramic acid 6-phosphate etherase,MM,nacetylmuramate6phosphate,,lactate; nacetylglucosamine6phosphate,,kcat:5.7;Km:3.0
+WP_001257000.1,2.7.4.9,,R297,Dtmp kinase,MM,dtmp,atp,adp; dtdp,Mg2+; Mn2+; Co2+,kcat:0;Km:0.245
+WP_000013046.1,2.1.3.2,,R298,Aspartate carbamoyltransferase,SOBB,laspartate; carbamoylphosphate,datp; atp,phosphate; ncarbamoyllaspartate,Mg2+; Zn2+,kcat:417.0;Km1:12.4;Km2:13.84
+WP_000568432.1,3.4.19.5,,R299,,,,,,,
+WP_000985549.1,3.1.3.23,,R300,Sugar-phosphatase,,,,sugar; phosphate,,
+WP_001207520.1,3.2.2.3,,R301,Uridine nucleosidase,MM,uridine,,ribose; uracil,,kcat:10.85;Km:0.408
+WP_001289167.1,1.2.1.11,,R302,Aspartate-semialdehyde dehydrogenase,,laspartate4semialdehyde; phosphate; nadp+,nadp+; nadph; nadh; nad+,l4aspartylphosphate+nadph; h+,,laspartate4semialdehyde_Km: 0.2; laspartate4semialdehyde_Kcat: 0; ; phosphate_Km: 5.95; phosphate_Kcat: 0; ; nadp+_Km: 562.5500000000001; nadp+_Kcat: 258.0; 
+WP_000827411.1,3.1.26.12,,R303,Ribonuclease e,,,,trnaarg; trnahis; trnaleu; trnapro,Ni2+; NaCl; NH4Cl; Mn2+; Zn2+; Mg2+,
+WP_001076997.1,4.1.99.12,,R304,,,,,,,
+WP_000312488.1,3.4.24.-,,R305,,,,,,,
+WP_000940019.1,2.1.1.200,,R306,Trna -methyltransferase,,,sadenosyllmethionine,2omethyluridine32intrna; sadenosyllhomocysteine,Mg2+,
+WP_001139613.1,3.5.4.16,,R307,Gtp cyclohydrolase i,,,,"formate; 7,8dihydroneopterin3triphosphate",Zn2+; Mg2+,
+WP_000842100.1,1.1.1.284,,R308,,,,,,,
+WP_001063206.1,3.1.21.3,,R309,,,,,,,
+WP_000148581.1,2.1.3.2,,R310,Aspartate carbamoyltransferase,SOBB,laspartate; carbamoylphosphate,datp; atp,phosphate; ncarbamoyllaspartate,Mg2+; Zn2+,kcat:417.0;Km1:12.4;Km2:13.84
+WP_000621515.1,4.1.1.11,,R311,Aspartate 1-decarboxylase,,,pyruvoylcofactor,betaalanine; co2,,
+WP_000762229.1,1.1.1.28,,R312,D-lactate dehydrogenase,,,nadh; nad+; fad,nadh; pyruvate,Mg2+; Mn2+,
+WP_001341577.1,1.6.5.9,,R313,,,,,,,
+WP_000105579.1,3.5.3.11,,R314,Agmatinase,MM,agmatine,,putrescine; urea,Mn2+,kcat:0;Km:1.1
+WP_000283664.1,3.1.3.-,,R315,,,,,,,
+WP_001234777.1,3.5.4.13,,R316,,,,,,,
+WP_000997403.1,2.1.1.-,,R317,,,,,,,
+WP_000183060.1,2.7.7.9,,R318,Utp-glucose-1-phosphate uridylyltransferase,SOBB,utp; glucose1phosphate,,diphosphate; udpglucose,Mg2+; Mn2+; Ni2+; Co2+,kcat:0;Km1:0.064;Km2:0.01
+WP_000187778.1,1.17.4.2,,R319,,,,,,,
+WP_001090386.1,2.7.7.4,,R320,Sulfate adenylyltransferase,,,atp,diphosphate; adenylylsulfate; adp,Mg2+,
+WP_001124935.1,3.1.11.6,,R321,,,,,,,
+WP_000809262.1,2.1.1.198,,R322,,,,,,,
+WP_000886900.1,3.1.3.7,,R323,"3,5-bisphosphate nucleotidase",MM,"adenosine3,5bisphosphate",,amp; phosphate,Mg2+,kcat:11.4;Km:0.24
+WP_000626410.1,4.3.1.17,,R324,L-serine ammonia-lyase,MM,lserine,,pyruvate; nh3relserine,Fe2+; Iron,kcat:490.0;Km:3.735
+WP_000786911.1,2.1.1.33,,R325,Trna -methyltransferase,MM,sadenosyllmethionine,sadenosyllmethionine,sadenosyllhomocysteine+n7methylguanine46intrna,Mg2+; Mn2+; Ca2+,kcat:0;Km:0.016
+WP_000011603.1,2.7.7.38,,R326,3-deoxy-manno-octulosonate cytidylyltransferase,SOBB,ctp; 3deoxymannooctulosonate,,diphosphate+cmp3deoxymannooctulosonate,Mn2+; Zn2+; Ca2+; Co2+; Cd2+; Ba2+; Mg2+,kcat:11.87;Km1:0.7086666666666667;Km2:0.6975
+WP_000049367.1,2.8.4.4,,R327,,,,,,,
+WP_001045520.1,2.1.1.186,,R328,,,,,,,
+WP_000089698.1,5.4.99.25,,R329,,,,,,,
+WP_001096048.1,6.3.2.8,,R330,Udp-n-acetylmuramate-l-alanine ligase,SOBB,udpnacetylmuramate; lalanine,atp,adp; phosphate+udpnacetylmuramoyllalanine,Mn2+; Mg2+; Co2+; ,kcat:0;Km1:0.115;Km2:0.04
+WP_001139294.1,2.3.1.191,,R331,,,,,,,
+WP_000130048.1,6.3.2.4,,R332,D-alanine-d-alanine ligase,,,atp,adp; phosphate; alanylalanine,Mg2+,
+WP_001044366.1,3.1.3.10,,R333,Glucose-1-phosphatase,MM,glucose1phosphate,,glucose; phosphate,,kcat:117.0;Km:0.445
+WP_001016666.1,1.3.1.98,,R334,,,,,,,
+WP_000621336.1,3.1.-.-,,R335,,,,,,,
+WP_000152933.1,3.1.1.29,,R336,Aminoacyl-trna hydrolase,,,,nsubstitutedaminoacid; trna,Mn2+,
+WP_001297933.1,4.2.3.5,,R337,,,,,,,
+WP_001266908.1,1.4.99.-,,R338,,,,,,,
+WP_000108921.1,2.6.1.9,,R339,Histidinol-phosphate transaminase,,,,3,,
+WP_000068457.1,5.1.99.7,,R340,,,,,,,
+WP_000126543.1,3.5.2.3,,R341,Dihydroorotase,MM,dihydroorotate,,ncarbamoyllaspartate,Zn2+; Co2+; Cd2+,kcat:0;Km:0.33666666666666667
+WP_001140251.1,5.2.1.8,,R342,,,,,,,
+WP_000096674.1,2.7.1.35,,R343,Pyridoxal kinase,MM,pyridoxal,atp,adp; pyridoxal5phosphate,Mg2+; Zn2+; K+,kcat:2.15;Km:0.14500000000000002
+WP_000030016.1,3.1.3.45,,R344,,,,,,,
+WP_000424181.1,4.2.3.3,,R345,Methylglyoxal synthase,,,,2oxopropanal; phosphate,,
+WP_000153129.1,3.1.3.5,,R346,5-nucleotidase,,,,aribonucleoside; phosphate,Mn2+; Mg2+; Co2+; Ni2+; CoCl2,
+WP_000108330.1,2.7.1.12,,R347,Gluconokinase,MM,gluconate,atp,adp; 6phosphogluconate,Mg2+,kcat:0;Km:0.09133333333333334
+WP_000543586.1,1.17.1.8,,R348,,,,,,,
+WP_000445249.1,2.5.1.19,,R349,3-phosphoshikimate 1-carboxyvinyltransferase,SOBB,3phosphoshikimate; phosphoenolpyruvate,,phosphate+5o,K+,kcat:14.0;Km1:182000019.23828;Km2:103333342.9467
+WP_000675504.1,1.16.3.1,,R350,,,,,,,
+WP_001295704.1,2.1.1.298,,R351,,,,,,,
+WP_000880195.1,4.3.2.10,,R352,,,,,,,
+WP_000039863.1,1.8.4.8,,R353,,,,,,,
+WP_000805449.1,2.1.2.11,,R354,,,,,,,
+WP_001285288.1,2.7.2.11,,R355,Glutamate 5-kinase,,,atp,adp; lglutamate5phosphate,Mg2+,
+WP_001293282.1,2.1.1.185,,R356,,,,,,,
+WP_000116297.1,2.1.1.191,,R357,,,,,,,
+WP_001135174.1,2.4.2.19,,R358,,,,,,,
+WP_001272330.1,2.1.1.172,,R359,,,,,,,
+WP_000030740.1,2.7.7.38,,R360,3-deoxy-manno-octulosonate cytidylyltransferase,SOBB,ctp; 3deoxymannooctulosonate,,diphosphate+cmp3deoxymannooctulosonate,Mn2+; Zn2+; Ca2+; Co2+; Cd2+; Ba2+; Mg2+,kcat:11.87;Km1:0.7086666666666667;Km2:0.6975
+WP_000942344.1,5.4.2.11,,R361,Phosphoglycerate mutase ,,,,3phosphoglycerate,,
+WP_000460360.1,3.6.5.-,,R362,,,,,,,
+WP_000444361.1,2.4.1.25,,R363,,,,,,,
+WP_000227950.1,2.1.1.163,,R364,Demethylmenaquinone methyltransferase,,,sadenosyllmethionine,"2octaprenyl3methyl1,4naphthoquinone; sadenosyllhomocysteine|i.e.menaquinone|",,
+WP_000517428.1,1.-.-.-,,R365,,,,,,,
+WP_001047336.1,2.5.1.90,,R366,,,,,,,
+WP_000951213.1,2.8.1.6,,R367,,,,,,,
+WP_000443530.1,1.1.1.-,,R368,,,,,,,
+WP_001023616.1,1.1.1.133,,R369,Dtdp-4-dehydrorhamnose reductase,,,nadph,dtdp4dehydrobetalrhamnose; nadph+h+,,
+WP_000444929.1,3.5.1.-,,R370,,,,,,,
+WP_000983255.1,2.2.1.6,,R371,Acetolactate synthase,,,thiaminediphosphate; fad,2acetolactate; co2,Mg2+; Ca2+; Cd2+; Mn2+; K+,
+WP_000932839.1,2.1.1.170,,R372,,,,,,,
+WP_000589409.1,3.1.4.16,,R373,"2,3-cyclic-nucleotide 2-phosphodiesterase",,,,nucleoside3phosphate,Co2+; Mg2+; Mn2+; Ni2+,
+WP_001092082.1,3.4.16.4,,R374,,,,,,,
+WP_000110749.1,1.1.1.3,,R375,,,,,,,
+WP_000173474.1,2.1.2.-,,R376,,,,,,,
+WP_001295474.1,6.3.3.1,,R377,,,,,,,
+WP_000211907.1,1.8.1.2,,R378,Assimilatory sulfite reductase ,,,flavin; 4fe4scenter; nadph; fmn; siroheme; fad; heme,sulfite; 3nadph; 3h+,Iron-sulfur cluster,
+WP_000673464.1,2.7.7.7,,R379,Dna-directed dna polymerase,,,,diphosphate; dnan+1,Mg2+; Zn2+,
+WP_001295461.1,2.5.1.47,,R380,Cysteine synthase,MM,oacetyllserine,pyridoxal5phosphate,lcysteine; acetate,Mg2+,kcat:24.0;Km:10.233333333333333
+WP_001181706.1,2.2.1.6,,R381,Acetolactate synthase,,,thiaminediphosphate; fad,2acetolactate; co2,Mg2+; Ca2+; Cd2+; Mn2+; K+,
+WP_001118446.1,1.8.4.-,,R382,,,,,,,
+WP_001192973.1,1.3.5.1,,R383,Succinate dehydrogenase,MM,succinate,"benzylviologen; quinone; plumbagin; 2,3dimethoxy5methyl6pentyl1,4benzoquinone; menaquinol6; hemeb556; flavinadeninedinucleotide; phenazinemethosulfate; fescenter; fad; hemeb; ironsulfurcentre; cytochromeb; heme; fescluster; flavin; 3fe4scenter",fumarate; aquinol,anions; Iron; Fe-S-clusters; Fe2+; Fe,kcat:23.0;Km:27.275
+WP_001157407.1,2.8.1.-,,R384,,,,,,,
+WP_001060244.1,3.2.2.4,,R385,Amp nucleosidase,MM,amp,,ribose5phosphate; adenine,,kcat:0;Km:7.56
+WP_001213584.1,3.1.3.104,,R386,,,,,,,
